@@ -1,0 +1,489 @@
+IdCaso,IdCasoRelacionado,DIAH,MESH,ANNOH,REGION,DEPTO_CASO,MUNINICIO_CASO,PRESUNTO_REPONSABLE,DESCRIPCION_PRESUNTO_RESPONSABLE,ArmasGrupoArmado,AbandonoDespojoForzadoTierras,AmenazaIntimidacion,AtaqueContraMisionMedica,ConfinamientoRestriccionMovilidad,DesplazamientoForzado,Extorsion,LesionadosCiviles,Pillaje,Tortura,ViolenciaBasadaGenero,OtroHechoSimultaneo,Capturas,GrupoPertenecenLosCapturados,EscudoHumano,LesionadosCombatientes,TotalMilitares,TotalPolicias,TotalOtrasFuerzasArmadasEstatales,TotalAgentesEstadoSinInformacion,TotalCombatientesFuerzasArmadasDelEstado,TotalCombatientesDeLasGuerrillas,TotalCombatientesDeLosParamilitares,TotalMuertosGrupoPosdesmovilizacion,TotalCombatientesSinInformacion,TotalCombatientesOtrosGruposArmadosOrganizados,TotalCombatientesGruposArmadosOrganizados,TotalCombatientesMuertos,TotalPersonasSinInformacion,TotalCivilesMuertos,TotalCivilesCombatientesMuertos,NumeroVictimasCaso,VentajaMilitar,Estado
+1780,Cr003013,21,1,1983,Uraba,Antioquia,San pedro de urabá,Guerrilla,Epl,Arma de fuego - artefacto explosivo,0,0,0,1,0,0,3,1,0,,,0,,0,0,0,0,0,0,0,2,0,0,0,0,2,2,0,0,2,2,Grupos armados organizados,Publicado
+2047,Cr003023,28,6,1985,Eje cafetero,Quindio,Génova,Guerrilla,M-19,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,1,0,0,,,0,,0,0,2,8,0,0,10,5,0,0,0,0,5,15,0,2,17,19,Grupos armados organizados,Publicado
+2693,Cr003030,3,2,1987,Sur del huila,Huila,Isnos,Guerrilla,Quintín lame,Arma de fuego,0,0,0,0,0,0,0,0,0,,,0,,0,0,1,0,0,0,1,6,0,0,0,0,6,7,0,0,7,7,Fuerzas armadas estatales,Publicado
+3350,Cr000038,27,5,1988,Provincia de garcia rovira,Santander,Carcasí,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,3,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+5860,Cr20175860,3,3,1992,Sur de cesar,Cesar,González,Grupo armado no dirimido,,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+6852,Cr003094,14,12,1992,Catatumbo,Norte de santander,Teorama,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,2,0,0,,,0,,0,3,1,2,0,0,3,0,0,0,0,0,0,3,0,0,3,3,Grupos armados organizados,Publicado
+8127,Cr003102,20,3,1994,Norte de antioquia,Antioquia,Angostura,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,6,0,1,0,0,1,4,0,0,0,0,4,5,0,0,5,5,Fuerzas armadas estatales,Publicado
+10902,Cr020590,28,1,1997,Atrato,Chocó,Bagadó,Guerrilla,Eln,,0,1,0,0,0,0,2,1,0,,,0,,0,3,0,6,0,0,6,0,0,0,0,0,0,6,0,0,6,6,Grupos armados organizados,Publicado
+11932,Cr201711932,11,12,1997,Provincia de guanenta,Santander,Mogotes,Guerrilla,Eln,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,3,6,6,Grupos armados organizados,Publicado
+13041,Cr009075,16,3,1999,Altiplano cundiboyacense,Boyacá,Tasco,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+13199,Cr007155,21,5,1999,Catatumbo,Norte de santander,Sardinata,Guerrilla,Eln,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,6,0,0,,,0,,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+13865,Cr000186,25,12,1999,Norte del tolima,Tolima,Santa isabel,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+13973,Cr008032,31,1,2000,Norte del cauca,Cauca,Suárez,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,2,1,0,,,0,,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+16540,Cr000245,28,9,2001,Macizo colombiano,Cauca,Almaguer,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,2,0,0,,,0,,0,6,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+16549,Cr048228,29,9,2001,Florencia y area de influencia,Caquetá,La montañita,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,1,0,0,1,0,0,0,0,,,0,,0,7,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+24926,Cr048280,4,8,2006,Norte del tolima,Tolima,Casabianca,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,,1,,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34578,Cr017016,24,6,0,Sin informacion,Sin informacion,Sin informacion,Guerrilla,M-19,Arma de fuego,0,0,0,0,0,0,0,1,0,,,0,,0,3,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,2,Grupos armados organizados,Publicado
+34579,Cr014112,23,10,0,Bajo putumayo,Putumayo,San miguel,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,4,0,0,4,0,0,0,0,0,0,4,0,2,6,12,Grupos armados organizados,Publicado
+34580,Cr007228,0,3,1958,Norte del cauca,Cauca,Toribío,Bandolerismo,No identificado,Arma de fuego,0,0,0,0,0,0,3,0,0,,,0,,0,0,0,13,0,0,13,0,0,0,0,2,2,15,0,9,24,24,Grupos armados organizados,Publicado
+34581,Cr037234,0,0,1961,Altillanura,Meta,Puerto lópez,Bandolerismo,No identificado,Arma de fuego,0,0,0,0,0,0,0,0,0,,Policía nacional,0,,0,3,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,2,Grupos armados organizados,Publicado
+34583,Cr041169,7,1,1965,Magdalena medio,Santander,Simacota,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,6,0,0,6,0,0,0,0,0,0,6,0,1,7,7,Grupos armados organizados,Publicado
+34584,Cr037213,17,3,1965,Norte del cauca,Cauca,Inzá,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34585,Cr037235,0,0,1970,Norte de antioquia,Antioquia,Ituango,Guerrilla,No identificada,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34586,Cr041188,8,10,1971,Magdalena medio,Cesar,Gamarra,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,0,2,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34587,Cr007245,7,1,1972,Magdalena medio,Bolívar,San pablo,Guerrilla,Eln,Nd,0,1,0,0,0,0,0,1,0,,,0,,0,3,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34588,Cr012269,7,1,1972,Magdalena medio,Bolívar,San pablo,Guerrilla,Eln,Material incendiario,0,0,0,0,0,0,0,1,0,,,0,,0,3,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,2,Grupos armados organizados,Publicado
+34589,Cr007242,16,1,1972,Nordeste antioqueño,Antioquia,Remedios,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,9,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34590,Cr010238,8,6,1975,Magdalena medio,Bolívar,Morales,Desconocido,No aplica,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34592,Cr018885,7,5,1976,Magdalena medio,Bolívar,Simití,Guerrilla,Eln,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,1,1,0,,,0,,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,1,3,3,Grupos armados organizados,Publicado
+34594,,13,4,1977,Norte del huila,Huila,Tello,Guerrilla,Farc,Arma de fuego,0,1,0,0,0,0,0,1,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34595,,7,3,1978,Ariari guayabero,Meta,Vistahermosa,Guerrilla,Farc,Nd,0,0,0,0,0,0,2,1,0,,,0,,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34596,,20,3,1978,Alto sinu y san jorge,Córdoba,Montelíbano,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,0,1,0,,,0,,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34597,Cr018869,4,7,1978,Alto sinu y san jorge,Córdoba,Montelíbano,Guerrilla,Epl,Arma de fuego,0,0,0,0,0,0,0,1,0,,,0,,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34598,,12,7,1978,Alto sinu y san jorge,Córdoba,Tierralta,Guerrilla,Epl,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,6,Epl,0,2,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,1,Grupos armados organizados,Publicado
+34599,,3,2,1979,Sur del huila,Huila,Acevedo,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,1,1,0,,,0,,0,3,0,0,0,0,0,3,0,0,0,0,3,3,0,1,4,4,Ninguno,Publicado
+34600,,11,2,1979,Occidente antioqueño,Antioquia,Uramita,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+34601,Cr012118,0,0,1981,Sin informacion,Sin informacion,Sin informacion,Guerrilla,M-19,Arma de fuego,0,0,0,0,0,0,4,1,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,2,3,6,Grupos armados organizados,Publicado
+34602,Cr003010,11,3,1981,Medio putumayo,Putumayo,Mocoa,Guerrilla,M-19,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,1,2,2,Grupos armados organizados,Publicado
+34603,Cr000481,20,7,1981,Amazonia sur-oriental,Caquetá,Solano,Guerrilla,Otra,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34604,Cr018917,22,7,1981,Serrania del perija,Cesar,La jagua de ibirico,Guerrilla,Eln,Arma de fuego - artefacto explosivo,0,1,0,0,0,0,2,1,0,,,0,,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,3,Grupos armados organizados,Publicado
+34605,Cr018920,1,11,1981,Amazonia sur-oriental,Caquetá,Solano,Guerrilla,M-19,Arma de fuego - artefacto explosivo,0,1,0,0,0,0,1,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34606,,0,0,1982,Bajo putumayo,Putumayo,Valle del guamuez,Guerrilla,M-19,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+34607,Cr003011,2,11,1982,Altiplano cundiboyacense,Cundinamarca,Chía,Guerrilla,M-19,Arma de fuego,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34608,,5,11,1982,Occidente antioqueño,Antioquia,Frontino,Guerrilla,Epl,Nd,0,0,0,0,0,0,2,1,0,,,0,,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,2,4,4,Grupos armados organizados,Publicado
+34609,Cr018942,9,11,1982,Norte de antioquia,Antioquia,Valdivia,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34610,Cr018943,11,11,1982,Provincia de velez,Santander,San benito,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34611,Cr003012,14,1,1983,Norte del cauca,Cauca,Toribío,Guerrilla,Farc,Arma de fuego - artefacto explosivo - material incendiario,0,0,0,0,0,0,1,1,0,,Liberación de presos - arengas,0,,0,2,0,2,0,0,2,4,0,0,0,0,4,6,0,0,6,6,Ninguno,Publicado
+34613,Cr003014,18,2,1983,Altiplano cundiboyacense,Boyacá,Pauna,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34614,,13,4,1983,Magdalena medio,Caldas,La dorada,Guerrilla,No identificada,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,Ninguno,Publicado
+34615,,24,4,1983,Nordeste antioqueño,Antioquia,Vegachí,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,3,1,0,,,0,,0,2,0,1,0,0,1,2,0,0,0,0,2,3,0,0,3,3,Grupos armados organizados,Publicado
+34616,,9,5,1983,,Caquetá,Sin informacion,Guerrilla,M-19,Nd,0,0,0,0,0,0,0,1,1,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+34617,Cr003015,18,5,1983,Bajo cauca antioqueño,Antioquia,El bagre,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,3,Grupos armados organizados,Publicado
+34618,,29,5,1983,Nordeste antioqueño,Antioquia,Maceo,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34619,Cr006016,10,6,1983,Serrania de los yariguies,Santander,Aguada,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,3,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,4,Grupos armados organizados,Publicado
+34620,,8,7,1983,Eje cafetero,Caldas,Norcasia,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34621,,20,7,1983,Nordeste antioqueño,Antioquia,Vegachí,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34622,Cr048108,28,7,1983,Provincia comunera,Santander,Suaita,Grupo armado no identificado,No aplica,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34623,Cr048115,28,7,1983,Altiplano cundiboyacense,Cundinamarca,Mosquera,Guerrilla,Eln,Arma de fuego,0,0,0,0,0,0,0,1,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+34624,Cr003016,28,7,1983,Provincia comunera,Santander,Suaita,Otro,,Arma de fuego,0,1,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,Grupos armados organizados,Publicado
+34625,Cr006019,12,8,1983,Sur del huila,Huila,Garzón,Guerrilla,M-19,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,1,1,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34626,Cr048381,15,9,1983,Eje cafetero,Caldas,Victoria,Guerrilla,Farc,Material incendiario,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+34627,Cr003017,16,9,1983,Eje cafetero,Caldas,Victoria,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,17 presos huyeron,0,,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,2,3,3,Fuerzas armadas estatales,Publicado
+34628,Cr004916,3,12,1983,Occidente antioqueño,Antioquia,Peque,Guerrilla,Epl,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,2,2,Grupos armados organizados,Publicado
+34629,Cr048131,7,1,1984,Occidente antioqueño,Antioquia,Sabanalarga,Guerrilla,Epl,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,1,0,6,0,0,6,0,0,0,0,0,0,6,0,0,6,6,Grupos armados organizados,Publicado
+34630,,14,3,1984,Florencia y area de influencia,Caquetá,Florencia,Desconocido,No aplica,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+34631,,15,3,1984,Florencia y area de influencia,Caquetá,Florencia,Guerrilla,M-19,Arma de fuego,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34632,,5,4,1984,Norte del cauca,Cauca,Corinto,Guerrilla,M-19,Material incendiario,0,0,0,0,0,0,0,1,0,,,0,,0,2,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34633,,19,4,1984,Altiplano cundiboyacense,Cundinamarca,Zipacón,Guerrilla,M-19,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34634,,24,4,1984,Sur del huila,Huila,Acevedo,Guerrilla,M-19,Arma de fuego,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34635,Cr048138,1,5,1984,Occidente antioqueño,Antioquia,Giraldo,Guerrilla,Epl,Arma de fuego - material incendiario,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,3,Grupos armados organizados,Publicado
+34636,,3,7,1984,Occidente antioqueño,Antioquia,Buriticá,Guerrilla,Epl,Arma de fuego,0,0,0,0,0,0,2,0,0,,,0,,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,1,2,4,Grupos armados organizados,Publicado
+34637,Cr003020,11,8,1984,Sur del valle,Valle del cauca,Yumbo,Guerrilla,M-19,Arma de fuego,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,5,0,0,5,0,0,0,0,0,0,5,0,0,5,10,Grupos armados organizados,Publicado
+34638,Cr012141,8,10,1984,Sur del valle,Valle del cauca,Yumbo,Guerrilla,Otra,Nd,0,0,0,0,0,0,11,0,0,,,0,,0,2,0,3,0,0,3,11,0,0,0,0,11,14,0,9,23,46,Fuerzas armadas estatales,Publicado
+34639,Cr119001,27,0,1985,Norte del cauca,Cauca,Miranda,Guerrilla,Otra,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,1,0,0,0,1,6,0,0,0,0,6,7,0,0,7,14,Grupos armados organizados,Publicado
+34640,Cr003021,4,1,1985,Norte del cauca,Cauca,Santander de quilichao,Guerrilla,Otra,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,19,0,0,0,0,0,9,0,0,0,0,9,9,0,1,10,20,Fuerzas armadas estatales,Publicado
+34641,Cr018947,19,1,1985,La mojana,Bolívar,Achí,Guerrilla,Otra,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34642,Cr012134,14,4,1985,Norte del cauca,Cauca,Toribío,Guerrilla,Otra,Artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,9,0,5,0,0,5,0,0,0,0,0,0,5,0,0,5,10,Grupos armados organizados,Publicado
+34644,Cr003022,20,6,1985,Bajo cauca antioqueño,Antioquia,Cáceres,Guerrilla,Eln,Arma de fuego - artefacto explosivo - material incendiario,0,0,0,1,0,0,1,1,0,,,0,,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34646,,1,7,1985,Sur del tolima,Tolima,Rioblanco,Guerrilla,M-19,Arma de fuego - material incendiario,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,2,4,Grupos armados organizados,Publicado
+34647,,5,7,1985,Sur del tolima,Tolima,Rioblanco,Guerrilla,M-19,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+34648,,19,10,1985,Suroeste antioqueño,Antioquia,Urrao,Guerrilla,Otra,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,1,0,0,1,2,0,0,0,0,2,3,0,2,5,5,Fuerzas armadas estatales,Publicado
+34649,Cr003024,22,10,1985,Norte del cauca,Cauca,Totoró,Guerrilla,Otra,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+34650,,2,12,1985,Bajo cauca antioqueño,Antioquia,Zaragoza,Guerrilla,Eln,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,1,1,0,0,2,0,0,0,0,0,0,2,0,2,4,2,Grupos armados organizados,Publicado
+34651,Cr003026,14,4,1986,Norte del cauca,Cauca,Toribío,Guerrilla,M-19,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Ninguno,Publicado
+34652,Cr006048,18,5,1986,Suroeste antioqueño,Antioquia,Caramanta,Guerrilla,No identificada,Arma de fuego,0,0,0,1,0,0,0,1,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34653,,20,5,1986,Norte del cauca,Cauca,Cajibío,Otro,,Arma de fuego - otro,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,1,0,0,3,0,4,4,0,0,4,4,Grupos armados organizados,Publicado
+34654,Cr119004,6,6,1986,Altiplano cundiboyacense,Cundinamarca,Nemocón,Guerrilla,M-19,Artefacto explosivo,0,0,0,0,0,0,2,1,0,,,0,,0,0,3,1,0,0,4,0,0,0,0,0,0,4,0,0,4,4,Grupos armados organizados,Publicado
+34655,,20,6,1986,Magdalena medio,Santander,Cimitarra,Otro,,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,9,0,9,9,0,0,9,9,Grupos armados organizados,Publicado
+34656,Cr003027,1,8,1986,Suroeste antioqueño,Antioquia,Andes,Guerrilla,Epl,Arma de fuego,0,1,0,0,0,0,3,1,0,,,0,,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,Fuerzas armadas estatales,Publicado
+34657,Cr003028,10,8,1986,Norte de antioquia,Antioquia,San pedro de los milagros,Guerrilla,Otra,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,2,0,0,2,2,0,0,0,0,2,4,0,1,5,5,Grupos armados organizados,Publicado
+34658,Cr003029,15,8,1986,Suroeste antioqueño,Antioquia,Betania,Guerrilla,Eln,Nd,0,0,0,0,0,0,4,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34659,Cr201734659,21,9,1986,Occidente antioqueño,Antioquia,Sopetrán,Guerrilla,Otra,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,5,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,Grupos armados organizados,Publicado
+34661,Cr018901,22,11,1986,Sur de bolivar,Bolívar,San martín de loba,Guerrilla,Otra,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,1-liberación de presos,0,,1,2,0,5,0,0,5,1,0,0,0,0,1,6,0,1,7,7,Grupos armados organizados,Publicado
+34662,Cr020011,26,1,1987,Uraba,Antioquia,Mutatá,Guerrilla,Farc,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+34664,Cr047918,7,4,1987,Llanos orientales,Arauca,Puerto rondón,Guerrilla,Eln,Arma de fuego,0,0,0,0,0,0,1,0,0,,,0,,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,1,3,3,Grupos armados organizados,Publicado
+34665,Cr003140,10,5,1987,Oriente antioqueño,Antioquia,Argelia,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34666,Cr003031,7,8,1987,Sur del huila,Huila,Acevedo,Guerrilla,Farc,Arma de fuego - artefacto explosivo - material incendiario,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,2,3,3,Grupos armados organizados,Publicado
+34667,Cr003032,9,8,1987,Sur del tolima,Tolima,Ortega,Guerrilla,Coordinadora nacional guerrillera,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34668,Cr003033,26,9,1987,Eje cafetero,Caldas,Risaralda,Guerrilla,Epl,Arma de fuego,0,0,0,0,0,0,7,1,0,,,0,,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,1,2,2,Grupos armados organizados,Publicado
+34669,Cr003034,29,10,1987,Occidente antioqueño,Antioquia,Cañasgordas,Guerrilla,Epl,Arma de fuego - artefacto explosivo - material incendiario,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,Ninguno,Publicado
+34670,Cr003002,19,1,1988,Anden pacifico sur,Cauca,López de micay,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,Grupos armados organizados,Publicado
+34671,Cr003003,23,1,1988,Nordeste antioqueño,Antioquia,Yolombó,Guerrilla,Coordinadora guerrillera simón bolívar,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,3,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34672,Cr003143,30,1,1988,Provincia de ricaurte,Norte de santander,Cáchira,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,7,0,1,0,0,1,0,0,0,0,0,0,1,0,1,2,2,Grupos armados organizados,Publicado
+34673,,6,2,1988,Suroeste antioqueño,Antioquia,Jericó,Guerrilla,Epl,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,3,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34674,,19,2,1988,Ariari guayabero,Meta,Fuente de oro,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,1,0,0,1,0,1,0,1,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,2,2,Grupos armados organizados,Publicado
+34675,,1,3,1988,Sur de cesar,Cesar,Pelaya,Agente del estado,Ejército nacional,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,2,2,0,0,4,0,0,0,0,0,0,4,0,0,4,4,Grupos armados organizados,Publicado
+34676,Cr003005,22,3,1988,Norte del cauca,Cauca,Caldono,Guerrilla,Coordinadora guerrillera simón bolívar,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,2,3,3,Grupos armados organizados,Publicado
+34677,Cr003006,30,3,1988,Sur del huila,Huila,Garzón,Guerrilla,Coordinadora guerrillera simón bolívar,Nd,0,0,0,0,0,0,3,0,0,,,0,,0,10,0,4,0,0,4,0,0,0,0,0,0,4,0,3,7,7,Grupos armados organizados,Publicado
+34678,,7,4,1988,Norte de antioquia,Antioquia,Ituango,Guerrilla,Farc,Nd,0,0,0,0,0,0,7,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34679,,18,4,1988,Serrania del perija,Cesar,Chiriguaná,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+34680,Cr003007,20,4,1988,Amazonia sur-oriental,Vaupés,Mitú,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,2,0,0,,,2,Grupo armado organizado,0,7,0,0,0,0,0,5,0,0,0,0,5,5,0,0,5,10,Ninguno,Publicado
+34681,,10,5,1988,Sur de cesar,Cesar,González,Guerrilla,Coordinadora guerrillera simón bolívar,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34683,,28,5,1988,Cienaga grande de santa marta,Magdalena,Plato,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+34685,Cr003036,4,6,1988,Suroeste antioqueño,Antioquia,Valparaíso,Guerrilla,Coordinadora guerrillera simón bolívar,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,2,0,0,2,1,0,0,0,0,1,3,0,0,3,3,Grupos armados organizados,Publicado
+34686,Cr003035,11,6,1988,Oriente antioqueño,Antioquia,Granada,Guerrilla,Otra,Arma de fuego,0,0,0,0,0,0,4,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34687,,12,7,1988,Oriente antioqueño,Antioquia,San vicente ferrer,Guerrilla,Eln,Nd,0,0,0,0,0,0,2,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,Ninguno,Publicado
+34688,Cr003037,14,7,1988,Macizo colombiano,Cauca,La sierra,Guerrilla,M-19,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,2,0,0,2,4,0,0,0,0,4,6,0,2,8,8,Grupos armados organizados,Publicado
+34689,Cr039044,18,8,1988,Suroccidente de norte de santander,Norte de santander,Chitagá,Guerrilla,Eln,Material incendiario,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+34690,Cr003038,23,8,1988,Alto sinu y san jorge,Córdoba,Tierralta,Guerrilla,Coordinadora nacional guerrillera,Arma de fuego - artefacto explosivo - material incendiario,0,0,0,0,0,0,4,0,0,,,0,,0,8,9,2,0,0,11,15,0,0,0,0,15,26,0,12,38,38,Grupos armados organizados,Publicado
+34691,Cr003039,30,8,1988,Norte del huila,Huila,Santa maría,Guerrilla,Farc,Nd,0,0,0,0,0,0,2,0,0,,,0,,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34692,Cr003040,8,9,1988,Sierra nevada de santa marta,Magdalena,Santa marta,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,23,Farc,0,4,0,1,0,0,1,3,0,0,0,0,3,4,0,1,5,5,Fuerzas armadas estatales,Publicado
+34693,Cr003042,5,10,1988,Magdalena medio,Bolívar,San pablo,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34694,Cr003043,5,10,1988,Magdalena medio,Santander,Puerto wilches,Guerrilla,Farc,Nd,0,0,0,0,0,0,3,0,0,,,0,,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Fuerzas armadas estatales,Publicado
+34695,,8,11,1988,Sur del valle,Valle del cauca,Florida,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Sin información,Publicado
+34696,Cr000043,12,11,1988,Altiplano cundiboyacense,Boyacá,Chita,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,6,Grupos armados organizados,Publicado
+34697,,29,11,1988,Provincia de soto,Santander,Tona,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+34698,Cr003045,4,12,1988,Oriente antioqueño,Antioquia,La unión,Guerrilla,Epl,Nd,0,0,0,0,0,0,2,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34699,Cr003046,16,12,1988,Norte de antioquia,Antioquia,San andrés de cuerquía,Guerrilla,Epl,Nd,0,0,0,0,0,0,1,1,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34700,,27,12,1988,Magdalena medio,Bolívar,Simití,Guerrilla,Farc,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,3,0,1,0,0,1,3,0,0,0,0,3,4,0,3,7,7,Grupos armados organizados,Publicado
+34701,Cr003047,10,2,1989,Macizo colombiano,Cauca,San sebastián,Guerrilla,Coordinadora guerrillera simón bolívar,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,2,0,5,0,0,5,0,0,0,0,0,0,5,0,0,5,5,Grupos armados organizados,Publicado
+34702,Cr003048,25,6,1989,Oriente antioqueño,Antioquia,La unión,Guerrilla,Eln,Nd,0,0,0,0,0,0,1,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34703,Cr003050,25,10,1989,Provincia de ricaurte,Norte de santander,Cáchira,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,4,0,1,0,0,1,1,0,0,0,0,1,2,0,0,2,2,Grupos armados organizados,Publicado
+34706,Cr003052,16,1,1990,Uraba,Antioquia,Mutatá,Grupo armado no dirimido,,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,6,0,4,0,0,4,0,0,0,0,0,0,4,0,0,4,4,Grupos armados organizados,Publicado
+34707,Cr007108,12,7,2000,Norte del huila,Huila,Colombia,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,2,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,Grupos armados organizados,Publicado
+34708,Cr018403,7,4,1990,Alto putumayo,Putumayo,Sibundoy,Guerrilla,Coordinadora guerrillera simón bolívar,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,2,5,5,Grupos armados organizados,Publicado
+34709,Cr003053,7,4,1990,Alto putumayo,Putumayo,San francisco,Guerrilla,Coordinadora guerrillera simón bolívar,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,2,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34710,Cr003141,9,4,1990,Catatumbo,Norte de santander,San calixto,Guerrilla,Eln,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,8,0,6,0,0,6,8,0,0,0,0,8,14,0,0,14,14,Grupos armados organizados,Publicado
+34711,Cr003054,20,4,1990,Norte del cauca,Cauca,El tambo,Guerrilla,Farc,Nd,0,0,0,0,0,0,1,1,0,,,0,,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34712,Cr003055,5,6,1990,Montes de maria,Sucre,Chalán,Guerrilla,Eln,Nd,0,0,0,0,0,0,7,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34713,Cr018436,29,6,1990,Alto sinu y san jorge,Córdoba,Valencia,Guerrilla,Coordinadora guerrillera simón bolívar,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,Grupos armados organizados,Publicado
+34714,Cr003056,13,9,1990,Llanos orientales,Casanare,Hato corozal,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,Arengas,0,,0,3,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34716,Cr003062,24,12,1990,Oriente antioqueño,Antioquia,San carlos,Guerrilla,Coordinadora guerrillera simón bolívar,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,2,Grupos armados organizados,Publicado
+34717,Cr003063,27,12,1990,Serrania del perija,Cesar,San diego,Guerrilla,Coordinadora guerrillera simón bolívar,Nd,0,0,0,0,0,0,2,0,0,,,0,,0,6,0,1,0,0,1,4,0,0,0,0,4,5,0,3,8,8,Grupos armados organizados,Publicado
+34718,,30,12,1990,Oriente de boyaca,Boyacá,Campohermoso,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4,Grupos armados organizados,Publicado
+34719,Cr003064,21,1,1991,Catatumbo,Norte de santander,San calixto,Guerrilla,Coordinadora guerrillera simón bolívar,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34720,Cr003065,5,2,1991,Sur del valle,Valle del cauca,Florida,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,2,0,1,0,0,1,1,0,0,0,0,1,2,0,0,2,2,Grupos armados organizados,Publicado
+34721,Cr003066,7,2,1991,Centro de norte de santander,Norte de santander,Arboledas,Guerrilla,Coordinadora guerrillera simón bolívar,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34722,Cr003067,6,3,1991,Ariari guayabero,Guaviare,El retorno,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,6,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34723,,8,3,1991,Norte del cauca,Cauca,El tambo,Guerrilla,Coordinadora guerrillera simón bolívar,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,3,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34724,Cr003068,17,3,1991,Sur del valle,Valle del cauca,Candelaria,Guerrilla,Farc,Nd,0,0,0,0,0,0,3,0,0,,,0,,0,5,0,3,0,0,3,3,0,0,0,0,3,6,0,1,7,7,Grupos armados organizados,Publicado
+34725,Cr003069,20,3,1991,Magdalena medio,Santander,Santa helena del opón,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,3,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,3,Grupos armados organizados,Publicado
+34726,Cr003070,30,3,1991,Norte de antioquia,Antioquia,Guadalupe,Guerrilla,Coordinadora guerrillera simón bolívar,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,Grupos armados organizados,Publicado
+34727,Cr003072,17,4,1991,Sur del huila,Huila,Isnos,Guerrilla,Farc,Nd,0,0,0,0,0,0,1,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Fuerzas armadas estatales,Publicado
+34728,Cr003073,27,4,1991,Provincia de soto,Santander,Charta,Guerrilla,Coordinadora guerrillera simón bolívar,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,5,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34729,Cr018466,13,5,1991,Piedemonte llanero,Casanare,Támara,Guerrilla,Coordinadora guerrillera simón bolívar,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,8,0,2,0,0,2,0,0,0,0,0,0,2,0,2,4,4,Grupos armados organizados,Publicado
+34730,Cr003074,16,5,1991,Magdalena medio,Bolívar,Morales,Guerrilla,Coordinadora guerrillera simón bolívar,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34731,Cr003075,28,5,1991,Sur del tolima,Tolima,San antonio,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34732,Cr003077,5,7,1991,Sierra nevada de santa marta,La guajira,San juan del cesar,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,2,Grupos armados organizados,Publicado
+34733,Cr003078,7,7,1991,Macizo colombiano,Cauca,Almaguer,Guerrilla,Coordinadora guerrillera simón bolívar,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,1,0,0,1,2,0,0,0,0,2,3,0,1,4,4,Grupos armados organizados,Publicado
+34735,Cr003080,10,7,1991,Sur de bolivar,Bolívar,San martín de loba,Guerrilla,Coordinadora guerrillera simón bolívar,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,3,0,4,0,0,4,0,0,0,0,0,0,4,0,1,5,5,Grupos armados organizados,Publicado
+34736,Cr003090,15,8,1991,Magdalena medio,Bolívar,Santa rosa del sur,Guerrilla,Coordinadora guerrillera simón bolívar,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,3,1,0,,,0,,0,7,0,3,0,0,3,0,0,0,0,0,0,3,0,3,6,6,Fuerzas armadas estatales,Publicado
+34737,Cr047919,8,10,1991,Altillanura,Vichada,Santa rosalía,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34738,Cr003142,8,10,1991,Altillanura,Vichada,La primavera,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,4,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34739,Cr003081,17,10,1991,Anden pacifico sur,Cauca,López de micay,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34740,Cr003082,13,11,1991,Sumapaz,Cundinamarca,Pasca,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34741,Cr018313,30,12,1991,Altiplano cundiboyacense,Boyacá,Chita,Guerrilla,Farc,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,5,0,1,0,0,1,0,0,0,0,0,0,1,0,1,2,4,Grupos armados organizados,Publicado
+34742,Cr000078,12,2,1992,Litoral pacifico,Chocó,Juradó,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,2,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34743,Cr003091,19,2,1992,Nordeste antioqueño,Antioquia,Yalí,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+34744,Cr003084,18,4,1992,Altiplano cundiboyacense,Boyacá,El cocuy,Guerrilla,Eln,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,2,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34745,Cr003085,21,5,1992,Norte del cauca,Cauca,Padilla,Guerrilla,Farc,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34746,Cr003086,2,7,1992,Serrania del perija,Cesar,Chiriguaná,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,0,0,,Suspensión servicio de agua y luz,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34747,Cr018315,29,9,1992,Anden pacifico sur,Nariño,El charco,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,1,2,2,Grupos armados organizados,Publicado
+34748,,26,10,1992,Uraba,Antioquia,Arboletes,Guerrilla,Farc,Nd,0,0,0,0,0,0,7,0,0,,,0,,0,1,0,3,0,0,3,0,0,0,0,0,0,3,0,1,4,4,Grupos armados organizados,Publicado
+34749,Cr003092,12,11,1992,Sur del valle,Valle del cauca,Ginebra,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34750,Cr003095,24,12,1992,Norte de nariño,Nariño,San pablo,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,2,0,2,0,0,2,3,0,0,0,0,3,5,0,0,5,5,Grupos armados organizados,Publicado
+34751,Cr007122,25,1,1993,Altiplano cundiboyacense,Boyacá,Tasco,Guerrilla,Coordinadora guerrillera simón bolívar,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34752,Cr003097,26,5,1993,Norte del cauca,Cauca,Caldono,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,2,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34753,Cr003098,16,7,1993,Occidente de nariño,Nariño,Samaniego,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34754,Cr007120,28,10,1993,Nordeste antioqueño,Antioquia,Amalfi,Guerrilla,Eln,Nd,0,0,0,0,0,0,3,0,0,,,0,,0,4,0,4,0,0,4,2,0,0,0,0,2,6,0,1,7,7,Grupos armados organizados,Publicado
+34755,,29,12,1993,Provincia de garcia rovira,Santander,Carcasí,Guerrilla,Eln,Arma de fuego,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34756,Cr003099,17,1,1994,Provincia de velez,Santander,Florián,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,5,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34757,Cr003100,18,2,1994,Centro de norte de santander,Norte de santander,Cucutilla,Guerrilla,Farc,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,2,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34758,Cr003101,7,3,1994,Altiplano cundiboyacense,Boyacá,Tasco,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,2,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34760,Cr003103,4,5,1994,Occidente antioqueño,Antioquia,Giraldo,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34761,Cr003104,8,5,1994,Altiplano cundiboyacense,Cundinamarca,Gachalá,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,1,0,1,0,0,1,1,0,0,0,0,1,2,0,0,2,2,Grupos armados organizados,Publicado
+34762,Cr003105,7,6,1994,Occidente antioqueño,Antioquia,Peque,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34763,Cr007113,17,7,1994,Llanos orientales,Casanare,Pore,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,3,1,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34764,Cr007121,19,7,1994,Sumapaz,Cundinamarca,Pasca,Guerrilla,Farc,Nd,0,0,0,0,1,0,0,1,0,,,0,,0,4,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,3,Grupos armados organizados,Publicado
+34765,Cr003106,19,7,1994,Altiplano cundiboyacense,Cundinamarca,La calera,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34766,Cr018320,5,8,1994,Norte del cauca,Cauca,Piendamó,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,1,0,0,1,1,0,0,0,0,1,2,0,2,4,4,Grupos armados organizados,Publicado
+34769,Cr003109,19,8,1994,Sumapaz,Cundinamarca,Tibacuy,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,2,Grupos armados organizados,Publicado
+34770,Cr021102,13,1,1995,Occidente antioqueño,Antioquia,Caicedo,Guerrilla,Farc,Arma de fuego,0,0,1,0,0,0,3,0,0,,,0,,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34771,Cr021001,13,1,1995,Sur del tolima,Tolima,Rioblanco,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,2,1,0,,,0,,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,3,5,5,Grupos armados organizados,Publicado
+34772,Cr003110,2,2,1995,Occidente antioqueño,Antioquia,Peque,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+34773,Cr021107,17,2,1995,Piedemonte llanero,Casanare,Támara,Guerrilla,Farc,Arma de fuego,0,0,1,0,0,0,0,0,0,,,0,,0,2,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,2,Grupos armados organizados,Publicado
+34774,Cr018321,5,3,1995,Norte de antioquia,Antioquia,Ituango,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,4,0,1,0,0,1,0,0,0,0,0,0,1,0,8,9,18,Grupos armados organizados,Publicado
+34775,Cr021022,6,3,1995,Norte de antioquia,Antioquia,Ituango,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,9,1,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,6,7,14,Grupos armados organizados,Publicado
+34776,Cr021024,5,4,1995,Altiplano cundiboyacense,Cundinamarca,Fosca,Guerrilla,Farc,Lanzagranadas - cañones - lanza cohetes,0,1,0,0,0,0,2,1,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34777,Cr048797,6,8,1995,Ariari guayabero,Guaviare,Miraflores,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,1,1,1,1,0,26,0,0,,,0,,0,28,0,6,0,0,6,14,0,0,0,0,14,20,0,7,27,27,Fuerzas armadas estatales,Publicado
+34778,Cr021136,19,10,1995,Altiplano cundiboyacense,Boyacá,Mongua,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34779,Cr007116,29,11,1995,Altiplano cundiboyacense,Boyacá,Mongua,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34781,Cr007125,3,12,1995,Montes de maria,Sucre,Chalán,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,0,0,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34782,,5,12,1995,Norte del cauca,Cauca,Miranda,Guerrilla,"Disidencia m-19 ""jaime bateman cayón""",Arma de fuego,0,0,0,0,0,0,1,1,0,,,0,,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,1,3,3,Grupos armados organizados,Publicado
+34783,Cr007118,22,1,1996,Sur del tolima,Tolima,Dolores,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,5,0,3,0,0,3,0,0,0,0,0,0,3,0,1,4,4,Grupos armados organizados,Publicado
+34784,Cr003112,6,3,1996,Anden pacifico sur,Nariño,Santa bárbara,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34785,Cr048799,14,3,1996,Sur del valle,Valle del cauca,Florida,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,5,1,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34786,Cr039102,20,4,1996,Alto sinu y san jorge,Córdoba,Tierralta,Grupo paramilitar,Autodefensas unidas de colombia auc,Arma de fuego,1,0,0,0,1,0,0,0,0,,,0,,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,2,3,3,Grupos armados organizados,Publicado
+34787,Cr003115,28,5,1996,Llanos orientales,Casanare,San luis de palenque,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,4,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,3,Grupos armados organizados,Publicado
+34788,Cr003116,9,7,1996,Altiplano cundiboyacense,Cundinamarca,Quetame,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,1,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34789,Cr003117,13,7,1996,Sur del tolima,Tolima,San luis,Guerrilla,Farc,Nd,0,0,0,0,0,0,3,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34790,Cr003118,6,8,1996,Piedemonte llanero,Meta,Guamal,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,9,0,0,,,0,,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34791,Cr003120,14,8,1996,Suroeste antioqueño,Antioquia,Betania,Guerrilla,Eln,Nd,0,0,0,0,0,0,2,0,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34792,Cr003121,29,8,1996,Occidente antioqueño,Antioquia,Peque,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34793,Cr003124,30,8,1996,Provincia de garcia rovira,Santander,Capitanejo,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,4,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,3,Grupos armados organizados,Publicado
+34794,,30,8,1996,Altiplano cundiboyacense,Cundinamarca,Guayabal de síquima,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34795,Cr003122,30,8,1996,Norte del cauca,Cauca,Santander de quilichao,Guerrilla,Farc,,0,1,0,0,0,0,0,0,0,,,0,,0,5,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,3,Grupos armados organizados,Publicado
+34796,Cr003125,20,10,1996,Altiplano cundiboyacense,Boyacá,Covarachía,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34797,Cr003126,12,1,1997,Norte del cauca,Cauca,Caloto,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,47 - reclusos liberados,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+34798,Cr003127,13,1,1997,Sierra nevada de santa marta,Magdalena,Fundación,Guerrilla,Farc,Nd,1,0,0,0,1,0,0,1,0,,,0,,0,3,0,2,0,0,2,0,0,0,0,0,0,2,0,2,4,4,Grupos armados organizados,Publicado
+34799,Cr009077,6,2,1997,Altiplano cundiboyacense,Boyacá,Cubará,Guerrilla,Eln,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,4,1,0,,,0,,0,12,0,5,0,0,5,3,0,0,0,0,3,8,0,2,10,10,Grupos armados organizados,Publicado
+34800,Cr003128,7,2,1997,Catatumbo,Norte de santander,Sardinata,Guerrilla,Farc,Nd,0,0,0,0,0,0,5,0,0,,,0,,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34801,Cr003129,9,2,1997,Norte del cauca,Cauca,Caldono,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+34802,Cr003130,14,2,1997,Morrosquillo y sabanas de sucre,Sucre,Galeras,Guerrilla,Disidencia eln,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34803,Cr003131,26,2,1997,Oriente de boyaca,Boyacá,Labranzagrande,Guerrilla,Farc,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,5,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34804,Cr003132,8,3,1997,Altiplano cundiboyacense,Cundinamarca,Gutiérrez,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,4,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34805,Cr003133,31,3,1997,Norte del cauca,Cauca,Miranda,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34806,Cr003134,4,4,1997,Piedemonte llanero,Casanare,Chámeza,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34807,Cr003135,9,5,1997,Sumapaz,Cundinamarca,Venecia,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,0,1,1,,,0,,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34809,,4,6,1997,Norte del cauca,Cauca,Silvia,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,2,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Ninguno,Publicado
+34810,,6,6,1997,Anden pacifico sur,Nariño,Barbacoas,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,3,0,4,0,0,4,0,0,0,0,0,0,4,0,2,6,6,Grupos armados organizados,Publicado
+34811,Cr003136,30,6,1997,Magdalena medio,Bolívar,Simití,Guerrilla,Eln,Arma de fuego,0,0,0,0,0,0,12,1,0,,,0,,1,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,3,Grupos armados organizados,Publicado
+34812,Cr003138,10,7,1997,Norte del cauca,Cauca,Páez,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34813,Cr018477,21,7,1997,Provincia de ricaurte,Norte de santander,Ábrego,Guerrilla,Eln,Arma de fuego,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34814,Cr018478,24,7,1997,Norte del cauca,Cauca,Piendamó,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34815,Cr018328,1,8,1997,Florencia y area de influencia,Caquetá,Valparaíso,Guerrilla,Farc,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+34816,Cr018479,3,8,1997,Altiplano cundiboyacense,Cundinamarca,Gachalá,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,1,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34817,Cr018480,8,8,1997,Norte del tolima,Tolima,Santa isabel,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34818,Cr018329,20,8,1997,Sumapaz,Cundinamarca,Cabrera,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,4,0,2,0,0,2,0,0,0,0,0,0,2,0,1,3,3,Grupos armados organizados,Publicado
+34819,Cr018481,1,9,1997,Bajo putumayo,Putumayo,San miguel,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,1,3,0,0,4,20,0,0,0,0,20,24,0,0,24,24,Fuerzas armadas estatales,Publicado
+34820,Cr048286,7,9,1997,Nordeste antioqueño,Antioquia,Yalí,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34821,,11,9,1997,Oriente de boyaca,Boyacá,Pajarito,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,3,0,5,0,0,5,2,0,0,0,0,2,7,0,3,10,10,Grupos armados organizados,Publicado
+34822,Cr018483,13,9,1997,Altiplano cundiboyacense,Cundinamarca,Pulí,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34823,,13,10,1997,Caguan,Caquetá,Puerto rico,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,4,0,0,,,0,,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+34824,,18,10,1997,Patia,Cauca,Balboa,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Ninguno,Publicado
+34825,Cr020737,18,10,1997,Sur del tolima,Tolima,Dolores,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,5,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34826,Cr018330,17,11,1997,Norte del cauca,Cauca,Totoró,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,0,0,0,,,0,,0,11,0,2,0,0,2,0,0,0,0,0,0,2,0,2,4,4,Grupos armados organizados,Publicado
+34827,Cr018485,21,11,1997,Norte del cauca,Cauca,Piendamó,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34828,Cr018486,4,12,1997,Eje cafetero,Quindio,Génova,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34830,Cr018331,11,12,1997,Provincia de garcia rovira,Santander,Guaca,Guerrilla,No identificada,Nd,0,0,0,0,0,0,7,0,0,,,0,,0,4,0,2,0,0,2,0,0,0,0,0,0,2,0,1,3,3,Grupos armados organizados,Publicado
+34832,Cr018487,16,12,1997,Norte del cauca,Cauca,Caldono,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34833,Cr018488,19,1,1998,Altiplano cundiboyacense,Boyacá,Güicán,Guerrilla,Farc/eln,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,1,2,2,Grupos armados organizados,Publicado
+34834,Cr018489,27,1,1998,Altiplano cundiboyacense,Boyacá,Rondón,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,1,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34835,Cr018490,11,2,1998,Altiplano cundiboyacense,Cundinamarca,Gama,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,2,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34836,Cr018491,16,2,1998,Noroccidente de cundinamarca,Cundinamarca,Nocaima,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,6,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34837,Cr018494,22,2,1998,Sumapaz,Tolima,Cunday,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34838,Cr018495,14,3,1998,Sur del valle,Valle del cauca,Florida,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34839,Cr018333,25,3,1998,Ariari guayabero,Meta,Puerto lleras,Guerrilla,Farc,Nd,0,0,0,0,0,0,2,0,0,,,0,,0,2,3,0,0,0,3,1,0,0,0,0,1,4,0,2,6,6,Grupos armados organizados,Publicado
+34840,Cr048767,29,3,1998,Patia,Nariño,El rosario,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34841,Cr018496,30,3,1998,Ariari guayabero,Meta,Vistahermosa,Guerrilla,Farc,Armas no convencionales,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34843,Cr018335,13,4,1998,Llanos orientales,Arauca,Cravo norte,Guerrilla,Farc/eln,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,Grupos armados organizados,Publicado
+34844,Cr018497,30,4,1998,Suroriente de norte de santander,Norte de santander,Ragonvalia,Guerrilla,Eln,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,2,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34845,Cr018336,9,5,1998,Eje cafetero,Caldas,Riosucio,Guerrilla,Farc,Nd,0,0,0,0,0,0,4,0,0,,,0,,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,1,2,2,Grupos armados organizados,Publicado
+34846,Cr018498,20,5,1998,Altiplano cundiboyacense,Cundinamarca,Beltrán,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34847,Cr008295,20,5,1998,Altiplano cundiboyacense,Cundinamarca,Beltrán,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34848,Cr018499,21,5,1998,Oriente antioqueño,Antioquia,La unión,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34849,Cr018500,21,5,1998,Magdalena medio,Bolívar,Morales,Guerrilla,No identificada,Nd,0,0,0,0,0,0,4,0,0,,,0,,0,6,4,0,0,0,4,0,0,0,0,0,0,4,0,0,4,4,Grupos armados organizados,Publicado
+34850,Cr018501,25,5,1998,Magdalena medio,Santander,Landázuri,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34851,,31,5,1998,Catatumbo,Norte de santander,El tarra,Guerrilla,Eln,Nd,0,0,0,0,0,0,5,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+34852,Cr018502,5,6,1998,Sumapaz,Tolima,Cunday,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34853,Cr018503,19,6,1998,Sur del valle,Valle del cauca,Jamundí,Guerrilla,Eln,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34855,Cr007143,17,7,1998,Norte del cauca,Cauca,Puerto tejada,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34856,Cr018505,17,7,1998,Magdalena medio,Cundinamarca,Yacopí,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34857,Cr018506,31,7,1998,Oriente antioqueño,Antioquia,Cocorná,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,3,Grupos armados organizados,Publicado
+34858,Cr018507,1,8,1998,Patia,Nariño,Los andes,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34859,Cr018508,2,8,1998,Sur de bolivar,Bolívar,San martín de loba,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Fuerzas armadas estatales,Publicado
+34860,Cr018509,2,8,1998,Norte del cauca,Cauca,Cajibío,Guerrilla,Farc,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34861,Cr018510,2,8,1998,Norte del cauca,Cauca,Corinto,Guerrilla,No identificada,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34862,Cr201734862,3,8,1998,Sierra nevada de santa marta,Magdalena,Santa marta,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+34863,Cr018338,3,8,1998,Eje cafetero,Risaralda,Mistrató,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,3,0,6,0,0,6,8,0,0,0,0,8,14,0,1,15,15,Grupos armados organizados,Publicado
+34864,Cr018511,3,8,1998,Montes de maria,Bolívar,Córdoba,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,5,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34865,Cr018512,4,8,1998,Ariari guayabero,Meta,Uribe,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,1,0,0,,,0,,0,32,29,1,0,0,30,8,0,0,0,0,8,38,0,0,38,33,Grupos armados organizados,Publicado
+34866,Cr018513,4,8,1998,Sur del tolima,Tolima,Natagaima,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,1,1,0,,,0,,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34867,Cr018514,12,8,1998,Serrania del perija,La guajira,Urumita,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34868,Cr018515,16,8,1998,Norte del cauca,Cauca,El tambo,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34869,Cr018517,19,8,1998,Suroccidente de norte de santander,Norte de santander,Chitagá,Guerrilla,Eln,Nd,0,0,0,0,0,0,2,0,0,,,0,,0,6,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,3,Grupos armados organizados,Publicado
+34870,Cr007158,21,8,1998,Sur del valle,Valle del cauca,El cerrito,Guerrilla,"Disidencia m-19 ""jaime bateman cayón""",Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34871,Cr018519,15,9,1998,Llanos orientales,Casanare,Hato corozal,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,8,0,5,0,0,5,0,0,0,0,0,0,5,0,0,5,5,Grupos armados organizados,Publicado
+34872,Cr018339,24,9,1998,Occidente antioqueño,Antioquia,Dabeiba,Guerrilla,Farc,Nd,0,1,0,1,1,1,11,1,3,,Varios reclusos liberados,0,,0,8,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34873,Cr018520,24,9,1998,Serrania del perija,Cesar,Chimichagua,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34874,Cr018528,28,9,1998,Patia,Cauca,Argelia,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34875,Cr018529,2,10,1998,Altiplano cundiboyacense,Cundinamarca,Quipile,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34876,,11,10,1998,Patia,Nariño,Leiva,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+34877,Cr018530,11,10,1998,Provincia de velez,Santander,Albania,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,1,0,,Apagón,0,,0,6,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34879,Cr018536,27,10,1998,Catatumbo,Norte de santander,Hacarí,Guerrilla,Farc,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,15,7,2,0,0,9,8,0,0,0,0,8,17,0,0,17,17,Grupos armados organizados,Publicado
+34880,Cr018340,1,11,1998,Amazonia sur-oriental,Vaupés,Mitú,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,1,0,0,0,0,,,15,Farc,0,47,21,16,0,0,37,0,0,0,0,0,0,37,0,9,46,46,Grupos armados organizados,Publicado
+34881,Cr018341,1,11,1998,Sur del tolima,Tolima,Planadas,Guerrilla,Farc,Nd,0,0,0,0,1,0,0,0,0,,,0,,1,15,6,0,0,0,6,20,0,0,0,0,20,26,0,5,31,31,Sin información,Publicado
+34882,,18,11,1998,Macizo colombiano,Cauca,Almaguer,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,Grupos armados organizados,Publicado
+34883,Cr018538,26,11,1998,Norte del cauca,Cauca,Caldono,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34884,Cr018539,30,11,1998,Oriente antioqueño,Antioquia,Cocorná,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34885,Cr018540,30,11,1998,Oriente antioqueño,Antioquia,San francisco,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,17,0,0,,,0,,0,4,0,1,0,0,1,0,0,0,0,0,0,1,0,11,12,12,Grupos armados organizados,Publicado
+34886,Cr018541,12,12,1998,Centro del huila,Huila,Algeciras,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,2,1,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34887,Cr018543,14,12,1998,Norte de nariño,Nariño,San pablo,Guerrilla,Farc,Material incendiario,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34888,Cr048760,25,12,1998,Sur del huila,Huila,Saladoblanco,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,1,0,0,,,0,,0,6,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34889,Cr018545,26,12,1998,Serrania del perija,Cesar,Becerril,Guerrilla,Farc,Arma de fuego,0,0,0,1,0,0,1,1,0,,,0,,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34890,Cr018546,28,12,1998,Occidente antioqueño,Antioquia,Frontino,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,3,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34891,Cr018548,4,1,1999,Norte del cauca,Cauca,Caloto,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,65 reclusos liberados,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34892,Cr018343,5,1,1999,Sierra nevada de santa marta,Cesar,Pueblo bello,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,8,0,2,0,0,2,0,0,0,0,0,0,2,0,1,3,3,Grupos armados organizados,Publicado
+34893,Cr018550,27,1,1999,Sumapaz,Cundinamarca,Tibacuy,Guerrilla,Farc,Nd,0,0,0,0,0,0,4,0,0,,,0,,0,2,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,2,Grupos armados organizados,Publicado
+34894,Cr018551,6,2,1999,Norte del tolima,Tolima,Villahermosa,Guerrilla,Eln,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34895,Cr018553,10,3,1999,Norte del cauca,Cauca,Piendamó,Guerrilla,Farc,Artefacto explosivo - material incendiario,0,0,0,0,0,0,1,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34896,Cr018555,10,3,1999,Norte del cauca,Cauca,Santander de quilichao,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,7,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34897,Cr018558,19,3,1999,Sur del valle,Valle del cauca,Dagua,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,7,1,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,2,2,Grupos armados organizados,Publicado
+34899,Cr018344,5,4,1999,Oriente antioqueño,Antioquia,San francisco,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,1,0,1,0,0,,,0,,0,4,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,7,Grupos armados organizados,Publicado
+34900,Cr018345,11,4,1999,Nordeste antioqueño,Antioquia,Vegachí,Guerrilla,Farc/eln,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,Ninguno,Publicado
+34901,Cr018562,16,4,1999,Altiplano cundiboyacense,Boyacá,Chiscas,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,0,3,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34902,Cr048763,17,4,1999,Norte del cauca,Cauca,Cajibío,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34903,Cr018565,17,4,1999,Norte del cauca,Cauca,Morales,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34904,Cr018566,19,4,1999,Llanos orientales,Arauca,Cravo norte,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34905,Cr018567,20,4,1999,Uraba,Chocó,Acandí,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,4,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34906,Cr018571,1,5,1999,Occidente antioqueño,Antioquia,Dabeiba,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34907,Cr018573,1,5,1999,Altiplano cundiboyacense,Boyacá,La uvita,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34908,,7,5,1999,Sur del tolima,Tolima,San antonio,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34909,Cr018574,7,5,1999,Macizo colombiano,Cauca,Rosas,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34910,Cr018575,8,5,1999,Sur del tolima,Tolima,San antonio,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,2,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34911,Cr018576,14,5,1999,Llanos orientales,Casanare,Pore,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,3,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,2,Grupos armados organizados,Publicado
+34912,Cr008288,19,5,1999,Norte del cauca,Cauca,Silvia,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,1,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34913,Cr021521,24,5,1999,Sur del tolima,Tolima,San antonio,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34914,Cr018581,29,5,1999,Provincia de soto,Santander,California,Guerrilla,Eln,Artefacto explosivo,0,0,0,0,0,0,3,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34915,Cr018582,31,5,1999,Sierra nevada de santa marta,Cesar,Pueblo bello,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,1,3,6,Grupos armados organizados,Publicado
+34916,Cr016029,1,6,1999,Altiplano cundiboyacense,Boyacá,Mongua,Guerrilla,Eln,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,4,0,0,,,0,,0,3,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34917,Cr018583,6,6,1999,Sur del tolima,Tolima,Rioblanco,Guerrilla,Farc,Nd,0,0,0,0,0,0,2,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34918,Cr018586,8,6,1999,Serrania de los yariguies,Santander,Contratación,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34920,Cr018590,9,7,1999,Centro del huila,Huila,Algeciras,Guerrilla,Farc,Nd,0,0,0,0,0,0,2,1,0,,,0,,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+34921,Cr018349,10,7,1999,Ariari guayabero,Meta,Puerto lleras,Guerrilla,Farc,Nd,0,1,0,1,0,0,15,0,0,,,0,,0,17,4,2,0,0,6,31,0,0,0,0,31,37,0,5,42,43,Grupos armados organizados,Publicado
+34924,Cr018350,29,7,1999,Oriente antioqueño,Antioquia,Nariño,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,1,1,0,1,1,9,1,0,,,0,,0,11,0,9,0,0,9,0,0,0,0,0,0,9,0,10,19,19,Grupos armados organizados,Publicado
+34926,Cr007055,6,8,1999,Provincia de guanenta,Santander,Onzaga,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34927,Cr018352,13,8,1999,Norte del tolima,Tolima,Casabianca,Guerrilla,Eln,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Sin información,Publicado
+34928,Cr007059,24,8,1999,Norte del cauca,Cauca,Cajibío,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,1,0,0,0,0,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34930,Cr007060,31,8,1999,Llanos orientales,Casanare,Hato corozal,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34931,Cr007063,15,10,1999,Macizo colombiano,Cauca,Timbío,Guerrilla,Farc,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+34932,Cr007064,16,11,1999,Norte del huila,Huila,Baraya,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,7,0,1,0,0,1,2,0,0,0,0,2,3,0,0,3,6,Grupos armados organizados,Publicado
+34933,Cr007065,29,11,1999,Altiplano cundiboyacense,Boyacá,Paz de río,Guerrilla,Farc,Nd,0,0,0,0,0,0,1,1,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34934,Cr007066,30,11,1999,Altiplano cundiboyacense,Cundinamarca,Quipile,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+34936,Cr007067,3,12,1999,Centro del huila,Huila,Gigante,Guerrilla,Farc,Nd,0,0,0,0,0,0,4,1,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4,Grupos armados organizados,Publicado
+34937,Cr007068,8,12,1999,Catatumbo,Norte de santander,El carmen,Guerrilla,Farc/eln,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,8,0,1,0,0,1,1,0,0,0,0,1,2,0,1,3,3,Grupos armados organizados,Publicado
+34938,Cr018356,9,12,1999,Florencia y area de influencia,Caquetá,Curillo,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,2,0,0,2,0,0,0,0,0,0,2,0,1,3,3,Grupos armados organizados,Publicado
+34939,Cr007069,9,12,1999,Centro del huila,Huila,Algeciras,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,1,3,6,Grupos armados organizados,Publicado
+34941,Cr007071,12,12,1999,Litoral pacifico,Chocó,Juradó,Guerrilla,Farc,Nd,0,1,0,0,1,0,0,1,3,,,0,,0,37,24,1,0,0,25,0,0,0,0,0,0,25,0,0,25,25,Grupos armados organizados,Publicado
+34943,Cr007205,11,1,2000,Sur de nariño,Nariño,Puerres,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,2,1,0,,,0,,0,1,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,4,Grupos armados organizados,Publicado
+34944,Cr007076,11,1,2000,Sur de nariño,Nariño,Córdoba,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34945,Cr007083,7,3,2000,Patia,Cauca,Patía,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34946,Cr007084,9,3,2000,Norte del cauca,Cauca,Santander de quilichao,Guerrilla,Farc,Artefacto explosivo - material incendiario,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34947,Cr007085,20,3,2000,Sur del tolima,Tolima,Alpujarra,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34948,Cr018359,25,3,2000,Atrato,Antioquia,Vigía del fuerte,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,1,0,0,0,0,1,0,,Ocultamiento de cadáver,0,,0,5,0,21,0,0,21,3,0,0,0,0,3,24,0,9,33,33,Grupos armados organizados,Publicado
+34950,Cr007093,26,6,2000,Centro del huila,Huila,Algeciras,Guerrilla,Farc,Nd,0,0,0,0,0,0,2,0,0,,,0,,0,2,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,4,Grupos armados organizados,Publicado
+34952,Cr007095,7,7,2000,Sur del valle,Valle del cauca,Pradera,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,4,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+34953,Cr018362,11,7,2000,Norte del huila,Huila,Santa maría,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,15,1,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34954,Cr007097,21,7,2000,La mojana,Bolívar,Montecristo,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,10,0,0,,,0,,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,2,Grupos armados organizados,Publicado
+34956,Cr007098,27,7,2000,Norte del cauca,Cauca,Puerto tejada,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34957,Cr018364,29,7,2000,Eje cafetero,Caldas,Pensilvania,Guerrilla,Farc,Nd,0,0,0,0,1,0,0,1,0,,,0,,0,0,0,13,0,0,13,0,0,0,0,0,0,13,0,4,17,16,Grupos armados organizados,Publicado
+34958,Cr018365,5,8,2000,Atrato,Chocó,El carmen de atrato,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,2,5,3,0,0,8,3,0,0,0,0,3,11,0,2,13,13,Grupos armados organizados,Publicado
+34960,Cr018366,29,8,2000,Norte del cauca,Cauca,Santander de quilichao,Guerrilla,Farc,Nd,0,0,0,0,0,0,1,0,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,2,3,3,Grupos armados organizados,Publicado
+34962,Cr008080,29,8,2000,Sur del valle,Valle del cauca,Palmira,Guerrilla,"Disidencia m-19 ""jaime bateman cayón""",Artefacto explosivo,0,0,0,0,0,0,2,0,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34971,Cr002001,19,11,2000,Altiplano cundiboyacense,Cundinamarca,Quipile,Guerrilla,Farc,Nd,0,0,0,0,0,0,7,1,0,,,0,,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34972,Cr002003,6,12,2000,Anden pacifico sur,Valle del cauca,Buenaventura,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,1,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,6,Grupos armados organizados,Publicado
+34978,Cr018371,12,12,2000,Norte de nariño,Nariño,Albán,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,1,0,0,1,1,0,0,0,0,1,2,0,1,3,3,Ninguno,Publicado
+34979,Cr002005,19,12,2000,Nordeste antioqueño,Antioquia,Yolombó,Guerrilla,Eln,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,4,1,0,,,0,,0,0,0,0,0,0,0,2,0,0,0,0,2,2,0,0,2,4,Fuerzas armadas estatales,Publicado
+34980,Cr201734980,26,12,2000,Altiplano cundiboyacense,Cundinamarca,Guayabal de síquima,Guerrilla,Farc,,0,0,0,0,0,0,3,1,0,,,0,,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34981,Cr002010,9,3,2001,Norte de nariño,Nariño,San pablo,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,1,1,0,,,0,,0,2,0,6,0,0,6,0,0,0,0,0,0,6,0,0,6,6,Grupos armados organizados,Publicado
+34982,Cr018372,16,3,2001,Anden pacifico sur,Nariño,Olaya herrera,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,1,0,0,,,0,,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,3,Grupos armados organizados,Publicado
+34983,Cr002011,31,3,2001,Macizo colombiano,Cauca,Almaguer,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34987,Cr002015,6,6,2001,Centro del huila,Huila,Algeciras,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34988,Cr048191,9,6,2001,Oriente antioqueño,Antioquia,Sonsón,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+34991,Cr048255,11,8,2001,Norte del tolima,Tolima,Santa isabel,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+34992,Cr018375,11,8,2001,Norte del tolima,Tolima,Anzoátegui,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,3,1,0,,,0,,0,6,0,2,0,0,2,22,0,0,0,0,22,24,0,1,25,25,Grupos armados organizados,Publicado
+34993,Cr002021,17,8,2001,Montes de maria,Sucre,Los palmitos,Agente del estado,Infantería de marina,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+34994,Cr002086,28,9,2001,Sur del huila,Huila,Acevedo,Guerrilla,Farc,Nd,0,0,0,0,0,0,3,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+34995,Cr014146,29,9,2001,Florencia y area de influencia,Caquetá,La montañita,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+34996,Cr018377,8,10,2001,Norte de nariño,Nariño,Albán,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34997,Cr002028,10,10,2001,Sur del valle,Valle del cauca,Florida,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+34999,Cr011023,19,10,2001,Norte del tolima,Tolima,Ibagué,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,1,0,0,,,0,,0,2,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,6,Grupos armados organizados,Publicado
+35000,Cr002030,25,10,2001,Eje cafetero,Quindio,Pijao,Guerrilla,Farc,Nd,0,0,0,0,0,0,10,1,0,,,0,,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+35001,Cr002033,2,12,2001,Eje cafetero,Caldas,Riosucio,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,3,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Ninguno,Publicado
+35002,Cr002034,12,12,2001,Norte del cauca,Cauca,Inzá,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,3,Grupos armados organizados,Publicado
+35004,Cr018379,13,1,2002,Norte de nariño,Nariño,Albán,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,1,1,1,0,0,1,9,,,0,,0,0,0,9,0,0,9,0,0,0,0,0,0,9,0,1,10,10,Grupos armados organizados,Publicado
+35006,Cr002036,25,1,2002,Norte del tolima,Tolima,Murillo,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,2,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+35007,Cr018382,25,2,2002,Oriente de boyaca,Boyacá,Aquitania,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,1,1,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,2,2,Grupos armados organizados,Publicado
+35009,Cr048736,28,2,2002,Sur de nariño,Nariño,Funes,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,4,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,Grupos armados organizados,Publicado
+35011,Cr008309,16,3,2002,Norte del tolima,Tolima,Venadillo,Guerrilla,Farc,Material incendiario,0,0,0,0,0,0,2,1,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+35012,Cr007138,15,4,2002,Norte de nariño,Nariño,La cruz,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+35013,Cr002042,15,4,2002,Norte de nariño,Nariño,Colón,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,3,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+35014,Cr002043,15,5,2002,Oriente antioqueño,Antioquia,Cocorná,Guerrilla,Farc,Artefacto explosivo,0,0,0,1,0,0,1,0,0,,,0,,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+35015,,25,5,2002,Catatumbo,Norte de santander,Tibú,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+35016,Cr016014,10,6,2002,Sur de nariño,Nariño,Potosí,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+35018,Cr002083,10,7,2002,Sur del huila,Huila,Oporapa,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,2,2,Ninguno,Publicado
+35022,Cr018393,29,7,2002,Sur de nariño,Nariño,Cuaspúd,Guerrilla,Farc,,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,1,0,0,1,8,0,0,0,0,8,9,0,1,10,10,Grupos armados organizados,Publicado
+35023,Cr002050,29,7,2002,Anden pacifico sur,Nariño,La tola,Guerrilla,Farc,Nd,0,0,0,0,0,0,2,1,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,4,Grupos armados organizados,Publicado
+35024,Cr002051,8,8,2002,Florencia y area de influencia,Caquetá,Milán,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+35027,Cr002053,29,10,2002,Montes de maria,Bolívar,Córdoba,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+35028,Cr046872,2,11,2002,Norte del tolima,Tolima,Casabianca,Guerrilla,Farc,Nd,0,0,0,0,0,0,5,1,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+35033,Cr021198,11,7,2003,Occidente de nariño,Nariño,Samaniego,Guerrilla,Eln,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,5,0,0,,,0,,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,2,4,Grupos armados organizados,Publicado
+35034,Cr014022,11,7,2003,Occidente de nariño,Nariño,Samaniego,Guerrilla,Eln,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,5,0,0,,,0,,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,1,2,4,Grupos armados organizados,Publicado
+35036,Cr011018,13,4,2005,Occidente de nariño,Nariño,Santacruz,Guerrilla,Farc/eln,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,2,Grupos armados organizados,Publicado
+35037,Cr005010,14,4,2005,Norte del cauca,Cauca,Toribío,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,13,0,0,,,0,,0,8,0,2,0,0,2,0,0,0,0,0,0,2,0,1,3,3,Grupos armados organizados,Publicado
+35038,Cr014024,14,6,2005,Occidente de nariño,Nariño,Samaniego,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+35039,Cr005011,3,7,2005,Norte del cauca,Cauca,Caldono,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+35040,,2,9,2005,Valle de san juan,Chocó,Sipí,Guerrilla,Farc/eln,Nd,0,0,1,0,0,0,0,0,0,,,0,,0,10,0,5,0,0,5,0,0,0,0,0,0,5,0,0,5,10,Grupos armados organizados,Publicado
+35041,Cr018926,27,12,2005,Valle de san juan,Chocó,Sipí,Guerrilla,Farc/eln,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,12,0,5,0,0,5,0,0,0,0,0,0,5,0,0,5,10,Grupos armados organizados,Publicado
+35043,Cr018129,4,3,2006,Eje cafetero,Caldas,Marulanda,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,8,0,0,,,0,,0,3,0,1,0,0,1,1,0,0,0,0,1,2,0,2,4,4,Grupos armados organizados,Publicado
+35045,,14,5,2007,Norte del tolima,Tolima,Ibagué,Guerrilla,Farc,Nd,0,0,0,0,0,0,5,0,0,,,0,,0,5,1,0,0,0,1,1,0,0,0,0,1,2,0,0,2,4,Grupos armados organizados,Publicado
+35046,Cr048087,20,3,2010,Centro del huila,Huila,Teruel,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+35048,,0,2,2012,Anden pacifico sur,Nariño,Francisco pizarro,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,67,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,7,14,Grupos armados organizados,Publicado
+35049,Cr012021,3,3,2012,Anden pacifico sur,Cauca,Timbiquí,Guerrilla,Farc,Artefacto explosivo - material incendiario,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+35050,Cr047784,5,7,2012,Norte del cauca,Cauca,Toribío,Agente del estado,Ejército nacional,Nd,0,1,0,1,1,0,2,0,0,,,0,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+35051,,25,7,2012,Patia,Cauca,Argelia,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+35052,Cr047788,1,9,2012,Patia,Cauca,Balboa,Agente del estado,Policía nacional,Nd,0,1,0,0,0,0,2,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+35053,Cr011026,23,1,2013,Patia,Cauca,Argelia,Guerrilla,Eln,Nd,0,0,0,0,0,0,7,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+35054,,5,2,2013,Norte del cauca,Cauca,Caloto,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,1,0,3,0,0,,,0,,0,2,1,0,0,0,1,0,0,0,0,0,0,1,0,1,2,2,Grupos armados organizados,Publicado
+35055,Cr011041,2,3,2013,Atrato,Chocó,Quibdó,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+35056,Cr011032,31,12,2012,Patia,Cauca,Argelia,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+35057,Cr014135,30,4,2014,Catatumbo,Norte de santander,San calixto,Guerrilla,No identificada,Arma de fuego,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+87502,Cr027034,1,1,2002,Florencia y area de influencia,Caquetá,Milán,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,4,0,0,,,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4,Grupos armados organizados,Publicado
+395195,,14,7,2000,Sur del tolima,Tolima,Roncesvalles,Guerrilla,Farc,Nd,0,0,0,0,1,0,,0,,,,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+395353,Cr2017395353,12,12,2002,Sur de nariño,Nariño,Cumbal,Guerrilla,Farc,Nd,0,0,0,0,0,0,2,1,,,,,,0,,0,4,0,0,4,,,,,,0,4,0,1,5,5,Grupos armados organizados,Publicado
+396324,Cr044192,0,0,0,Magdalena medio,Bolívar,Morales,Guerrilla,Eln,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,,0,,0,2,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+396405,,26,1,1973,Uraba,Antioquia,San pedro de urabá,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,4,5,0,0,0,5,0,0,0,0,0,0,5,0,0,5,5,Grupos armados organizados,Publicado
+396438,Cr007246,10,4,1975,Caguan,Caquetá,Puerto rico,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,0,1,0,,,0,,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+396440,,20,6,1975,Uraba,Antioquia,Mutatá,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,0,1,1,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,2,3,3,Grupos armados organizados,Publicado
+396452,Cr023049,14,2,1977,Ariari guayabero,Meta,La macarena,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,4,0,1,0,0,1,1,0,0,0,0,1,2,0,0,2,2,Grupos armados organizados,Publicado
+396531,,3,9,1986,Norte de antioquia,Antioquia,Belmira,Desconocido,No aplica,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,3,0,0,0,0,3,3,0,0,3,3,Sin información,Publicado
+396556,,16,4,1987,Norte de antioquia,Antioquia,Ituango,Guerrilla,Epl,Nd,0,0,0,0,0,0,0,1,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+396559,,8,7,1987,La mojana,Sucre,Guaranda,Guerrilla,Epl,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,6,0,0,6,3,0,0,0,0,3,9,0,0,9,9,Grupos armados organizados,Publicado
+396603,Cr000056,9,11,1989,Atrato,Chocó,Lloró,Guerrilla,Eln,Nd,0,0,0,0,0,0,2,0,0,,0,0,,0,5,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+396606,Cr016500,15,12,1989,Norte de antioquia,Antioquia,San andrés de cuerquía,Guerrilla,Farc/epl,Nd,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+396648,,7,12,1990,Eje cafetero,Caldas,Chinchiná,Grupo armado no identificado,No aplica,Arma de fuego,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Ninguno,Publicado
+396657,Cr003079,8,7,1991,Occidente antioqueño,Antioquia,Uramita,Guerrilla,Farc,Nd,0,0,0,0,0,0,1,0,0,,0,0,,0,2,0,1,0,0,1,0,0,0,0,0,0,1,0,1,2,2,Grupos armados organizados,Publicado
+396681,Cr042211,18,8,1992,San jorge (cesar),Sucre,Caimito,Guerrilla,Eln,Arma de fuego,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,2,2,Grupos armados organizados,Publicado
+396741,Cr003107,7,8,1994,Caguan,Caquetá,Cartagena del chairá,Guerrilla,Farc,Nd,0,0,0,0,0,0,4,0,0,,,0,,0,0,0,5,0,0,5,0,0,0,0,0,0,5,0,0,5,5,Grupos armados organizados,Publicado
+396742,Cr021072,8,8,1994,Sur del huila,Huila,Saladoblanco,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+396768,Cr021142,29,11,1995,Altiplano cundiboyacense,Boyacá,Gámeza,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+396773,Cr021146,22,1,1996,Norte del cauca,Cauca,Páez,Guerrilla,Farc,Nd,0,0,0,0,0,0,2,1,0,,,0,,0,0,1,1,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+396850,,1,7,1998,Ariari guayabero,Guaviare,El retorno,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,5,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,Ninguno,Publicado
+396859,Cr018531,14,10,1998,Norte de nariño,Nariño,Albán,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,4,1,0,,0,0,,0,2,0,2,0,0,2,0,0,0,0,0,0,2,0,1,3,3,Grupos armados organizados,Publicado
+396881,Cr018348,9,6,1999,Altiplano cundiboyacense,Boyacá,El espino,Guerrilla,Farc,,0,0,0,0,0,0,3,1,0,,,0,,0,5,0,14,0,0,14,0,0,0,0,0,0,14,0,1,15,15,Grupos armados organizados,Publicado
+396895,Cr008010,23,7,1999,Centro del valle,Valle del cauca,Caicedonia,Guerrilla,Farc,Nd,0,0,0,0,0,0,13,1,0,,0,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+396898,,27,8,1999,Norte de nariño,Nariño,Albán,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,20,1,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,4,Grupos armados organizados,Publicado
+396919,Cr008013,2,12,1999,Patia,Cauca,Bolívar,Guerrilla,Eln,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+396924,Cr018357,11,12,1999,Oriente antioqueño,Antioquia,San luis,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,0,0,,0,4,0,8,0,0,8,1,0,0,0,0,1,9,0,2,11,11,Grupos armados organizados,Publicado
+396933,Cr008026,11,1,2000,Sur de nariño,Nariño,Potosí,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,0,0,,0,4,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Grupos armados organizados,Publicado
+396977,Cr008059,16,6,2000,Norte del cauca,Cauca,Páez,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+396980,Cr012152,26,6,2000,Centro del huila,Huila,Algeciras,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,2,0,0,,0,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,Sin información,Publicado
+396991,Cr018363,27,7,2000,Norte de nariño,Nariño,San pablo,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,1,0,,0,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,2,2,Grupos armados organizados,Publicado
+396998,Cr021155,29,8,2000,Suroriente de norte de santander,Norte de santander,Labateca,Guerrilla,Farc,,0,0,0,0,0,0,4,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,Grupos armados organizados,Publicado
+397003,Cr007102,29,8,2000,Sur del valle,Valle del cauca,Palmira,Guerrilla,Farc,Nd,0,0,0,0,0,0,1,0,0,,0,0,,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,2,3,3,Grupos armados organizados,Publicado
+397004,Cr008080,29,8,2000,Sur del valle,Valle del cauca,Palmira,Guerrilla,"Disidencia m-19 ""jaime bateman cayón""",Artefacto explosivo,0,0,0,0,0,0,2,0,0,,,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+397006,Cr000204,30,8,2000,Norte del cauca,Cauca,Miranda,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,5,0,0,,,0,,0,0,0,0,0,0,0,2,0,0,0,0,2,2,0,0,2,2,Grupos armados organizados,Publicado
+397010,Cr007104,1,9,2000,Norte del cauca,Cauca,Caloto,Guerrilla,Farc,Nd,0,0,0,0,0,0,1,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Fuerzas armadas estatales,Publicado
+397011,Cr007105,1,9,2000,Macizo colombiano,Cauca,Timbío,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sin información,Publicado
+397025,Cr018368,18,10,2000,Atrato,Chocó,Bagadó,Guerrilla,Erg,Artefacto explosivo,1,1,0,1,1,0,3,1,0,,0,0,,1,0,0,5,0,0,5,0,0,0,0,0,0,5,0,0,5,5,Grupos armados organizados,Publicado
+397027,Cr007161,22,10,2000,Sarare,Arauca,Tame,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,9,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+397038,,18,11,2000,Occidente de nariño,Nariño,Samaniego,Guerrilla,Eln,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+397039,,18,11,2000,Centro occidente de nariño,Nariño,Ancuyá,Guerrilla,Eln,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+397048,Cr040099,10,12,2000,Norte del huila,Huila,Villavieja,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,1,0,0,,,0,,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,1,Fuerzas armadas estatales,Publicado
+397079,Cr007165,23,2,2001,Sur del tolima,Tolima,San antonio,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,0,0,,0,0,,0,4,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+397092,Cr018373,4,4,2001,Sur del tolima,Tolima,Ataco,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,0,0,,0,2,0,1,0,0,1,0,0,0,0,0,0,1,0,1,2,2,Grupos armados organizados,Publicado
+397096,Cr018374,15,4,2001,Bajo cauca antioqueño,Antioquia,Tarazá,Grupo paramilitar,Autodefensas unidas de colombia auc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,7,1,0,,0,0,,0,30,0,0,0,0,0,0,1,0,0,0,1,1,0,19,20,20,Grupos armados organizados,Publicado
+397116,Cr002013,10,5,2001,Norte de nariño,Nariño,La cruz,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,3,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+397120,Cr000238,19,6,2001,Sumapaz,Cundinamarca,Arbeláez,Guerrilla,Farc,Artefacto explosivo,0,1,0,1,0,0,2,1,0,,0,0,,0,2,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,2,Grupos armados organizados,Publicado
+397122,Cr002017,21,7,2001,Patia,Cauca,Bolívar,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,1,1,0,,0,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+397147,Cr000248,17,10,2001,Norte del tolima,Tolima,Ibagué,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,1,0,0,,,0,,0,4,0,3,0,0,3,0,0,0,0,0,0,3,0,0,3,3,Grupos armados organizados,Publicado
+397206,Cr002046,4,7,2002,Provincia de soto,Santander,Suratá,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,0,1,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+397210,Cr007140,11,7,2002,Norte del cauca,Cauca,Toribío,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,2,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+397216,Cr000312,17,7,2002,Sur del tolima,Tolima,Dolores,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,1,0,0,1,0,2,0,0,,0,0,,0,1,0,0,0,0,0,10,0,0,0,0,10,10,0,4,14,14,Fuerzas armadas estatales,Publicado
+397226,Cr000324,11,8,2002,Norte del cauca,Cauca,El tambo,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+397227,Cr008296,12,8,2002,Patia,Nariño,Los andes,Agente del estado,Ejército nacional,Nd,0,0,0,0,0,0,0,0,0,,0,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,Grupos armados organizados,Publicado
+397293,Cr021191,21,5,2003,Norte del cauca,Cauca,Silvia,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,1,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+397313,Cr002079,9,7,2003,Occidente de nariño,Nariño,Samaniego,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,4,0,0,,0,0,,0,2,0,1,0,0,1,0,0,0,0,0,0,1,0,1,2,2,Grupos armados organizados,Publicado
+397399,Cr002062,6,8,2004,Catatumbo,Norte de santander,San calixto,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+397452,Cr003146,13,1,2006,Occidente de nariño,Nariño,La llanada,Guerrilla,Eln,Nd,0,0,0,0,0,0,0,0,0,,0,0,,0,2,0,0,0,0,0,6,0,0,0,0,6,6,0,0,6,6,Fuerzas armadas estatales,Publicado
+397657,Cr037243,10,11,2010,Norte del cauca,Cauca,El tambo,Guerrilla,Farc/eln,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ninguno,Publicado
+397679,Cr007154,20,5,2011,Norte del cauca,Cauca,Caldono,Guerrilla,Farc,Nd,0,0,0,0,0,0,3,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Fuerzas armadas estatales,Publicado
+397696,,4,1,2012,Norte del cauca,Cauca,El tambo,Guerrilla,Farc,Nd,0,0,0,0,0,0,0,0,0,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+397827,Cr045013,11,11,2012,Norte del cauca,Cauca,Suárez,Guerrilla,Farc,Artefacto explosivo,0,0,0,0,0,0,0,0,0,,,0,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+422139,Cr2017422139,4,8,2006,Norte del tolima,Tolima,Casabianca,Guerrilla,Farc,Arma de fuego,0,0,0,0,0,0,0,1,0,,,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+511226,,2,3,1973,Provincia de velez,Santander,Florián,Guerrilla,Farc,,0,0,0,0,0,0,,1,,,,,,0,4,0,0,0,0,0,,,,,,0,0,0,0,0,0,Grupos armados organizados,Publicado
+532353,Cr2017511159,11,6,1974,Centro del huila,Huila,Algeciras,Guerrilla,Farc,Nd,0,0,0,0,0,0,1,0,,,,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
+532359,,13,2,1975,Magdalena medio,Bolívar,Morales,Guerrilla,Eln,Arma de fuego,0,0,0,0,0,0,,1,,,,,,0,4,0,2,0,0,2,,,,,,0,2,0,0,2,2,Grupos armados organizados,Publicado
+532468,,16,11,1977,Occidente antioqueño,Antioquia,Frontino,Guerrilla,Farc,Arma de fuego - artefacto explosivo,0,0,0,0,0,0,,1,,,,,,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grupos armados organizados,Publicado
